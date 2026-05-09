@@ -157,10 +157,4 @@ The goal is a portfolio that reflects real analytical thinking, not just tool ex
 
 ---
 
-## 🙏 Acknowledgements
-
-Roadmap designed with guidance from the **Claude AI** career coaching framework, based on my actual experience profile and target roles.
-
----
-
 *Last updated: May 2026*
