@@ -1,0 +1,18 @@
+# ⚙️ Lab Notes
+
+## IP Schema
+
+| Machine | IP Address | Purpose |
+|-------|-----------|-----------|--------|
+| Ubuntu Server | 10.0.2.15/24 | Linux sysadmin practice |
+| Windows 11 Pro | Vulnerability Scanning & CVSS | Active Directory / Domain Controller |
+| Kali Linux | 10.0.2.15/24 | Scanning and attacks |
+| VirtualBox Gateway | Cloud Infrastructure & Hardening | Router / internet access |
+
+## Hostname Plan
+
+| Machine | Hostname |
+|-------|-----------|-----------|--------|
+| Ubuntu Server | 10.0.2.15/24 | Linux sysadmin practice |
+| Windows 11 Pro | Vulnerability Scanning & CVSS | Active Directory / Domain Controller |
+| Kali Linux | 10.0.2.15/24 | Scanning and attacks |
