@@ -3,16 +3,16 @@
 ## IP Schema
 
 | Machine | IP Address | Purpose |
-|-------|-----------|-----------|--------|
-| Ubuntu Server | 10.0.2.15/24 | Linux sysadmin practice |
-| Windows 11 Pro | Vulnerability Scanning & CVSS | Active Directory / Domain Controller |
-| Kali Linux | 10.0.2.15/24 | Scanning and attacks |
-| VirtualBox Gateway | Cloud Infrastructure & Hardening | Router / internet access |
+|-------|-----------|-----------|
+| Ubuntu Server | 192.168.1.10 | Linux sysadmin practice |
+| Windows 11 Pro | 192.168.1.10 | Active Directory / Domain Controller |
+| Kali Linux | 192.168.1.12 | Scanning and attacks |
+| VirtualBox Gateway | 10.0.2.2 | Router / internet access |
 
 ## Hostname Plan
 
 | Machine | Hostname |
-|-------|-----------|-----------|--------|
-| Ubuntu Server | 10.0.2.15/24 | Linux sysadmin practice |
-| Windows 11 Pro | Vulnerability Scanning & CVSS | Active Directory / Domain Controller |
-| Kali Linux | 10.0.2.15/24 | Scanning and attacks |
+|-------|-----------|
+| Ubuntu Server | ubuntu-lab |
+| Windows 11 Pro | dc-01 |
+| Kali Linux | kali-attacker |
