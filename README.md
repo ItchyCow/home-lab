@@ -11,7 +11,7 @@ I'm a cybersecurity professional based in the Philippines with experience in **a
 This lab documents my structured upskilling roadmap — bridging operational security experience with deeper technical depth in systems administration, vulnerability management, cloud hardening, and compliance frameworks.
 
 **Current role:** Technical Support Analyst (Remote) — UpGuard  
-**Target roles:** Vulnerability Analyst · Systems Administrator  
+**Target roles:** Security Analyst · SOC L1   
 **Certifications:** Certified in Cybersecurity (ISC²)
 
 📧 kiarabvicencio@gmail.com  
